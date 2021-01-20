@@ -4,7 +4,7 @@
 
 package io.flutter.embedding.android;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 /**
  * An Android App Component exclusively attached to a {@link

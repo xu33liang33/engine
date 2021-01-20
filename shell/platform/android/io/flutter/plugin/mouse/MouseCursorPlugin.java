@@ -7,8 +7,8 @@ package io.flutter.plugin.mouse;
 import android.annotation.TargetApi;
 import android.os.Build;
 import android.view.PointerIcon;
-import androidx.annotation.NonNull;
-import androidx.annotation.RequiresApi;
+import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import io.flutter.embedding.engine.systemchannels.MouseCursorChannel;
 import java.util.HashMap;
 

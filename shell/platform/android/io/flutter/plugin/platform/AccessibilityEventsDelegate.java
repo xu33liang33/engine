@@ -6,8 +6,8 @@ package io.flutter.plugin.platform;
 
 import android.view.View;
 import android.view.accessibility.AccessibilityEvent;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import io.flutter.view.AccessibilityBridge;
 
 /**

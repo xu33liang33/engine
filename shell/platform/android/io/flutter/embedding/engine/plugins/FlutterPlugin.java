@@ -5,8 +5,8 @@
 package io.flutter.embedding.engine.plugins;
 
 import android.content.Context;
-import androidx.annotation.NonNull;
-import androidx.lifecycle.Lifecycle;
+import android.arch.lifecycle.Lifecycle;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.platform.PlatformViewRegistry;

@@ -10,10 +10,10 @@ import android.graphics.Insets;
 import android.view.View;
 import android.view.WindowInsets;
 import android.view.WindowInsetsAnimation;
-import androidx.annotation.Keep;
-import androidx.annotation.NonNull;
-import androidx.annotation.RequiresApi;
-import androidx.annotation.VisibleForTesting;
+import android.support.annotation.Keep;
+import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
+import android.support.annotation.VisibleForTesting;
 import java.util.List;
 
 // Loosely based off of

@@ -4,7 +4,7 @@
 
 package io.flutter.embedding.engine.plugins.util;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.Log;
 import io.flutter.embedding.engine.FlutterEngine;
 import java.lang.reflect.Method;

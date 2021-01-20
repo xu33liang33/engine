@@ -6,7 +6,7 @@ package io.flutter.view;
 
 import android.view.Choreographer;
 import android.view.WindowManager;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.engine.FlutterJNI;
 
 // TODO(mattcarroll): add javadoc.

@@ -4,7 +4,7 @@
 
 package io.flutter.plugin.common;
 
-import androidx.annotation.UiThread;
+import android.support.annotation.UiThread;
 import io.flutter.BuildConfig;
 import io.flutter.Log;
 import io.flutter.plugin.common.BinaryMessenger.BinaryMessageHandler;

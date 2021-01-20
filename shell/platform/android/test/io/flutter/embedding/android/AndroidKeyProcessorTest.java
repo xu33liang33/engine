@@ -12,7 +12,7 @@ import static org.mockito.Mockito.when;
 import android.annotation.TargetApi;
 import android.view.KeyEvent;
 import android.view.View;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.embedding.engine.FlutterJNI;
 import io.flutter.embedding.engine.systemchannels.KeyEventChannel;

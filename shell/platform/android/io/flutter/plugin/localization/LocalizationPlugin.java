@@ -8,7 +8,7 @@ import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Build;
 import android.os.LocaleList;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.engine.systemchannels.LocalizationChannel;
 import java.util.ArrayList;
 import java.util.List;

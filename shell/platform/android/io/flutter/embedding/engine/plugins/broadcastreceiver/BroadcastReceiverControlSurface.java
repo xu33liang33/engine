@@ -5,8 +5,8 @@
 package io.flutter.embedding.engine.plugins.broadcastreceiver;
 
 import android.content.BroadcastReceiver;
-import androidx.annotation.NonNull;
-import androidx.lifecycle.Lifecycle;
+import android.arch.lifecycle.Lifecycle;
+import android.support.annotation.NonNull;
 
 /**
  * Control surface through which a {@link BroadcastReceiver} attaches to a {@link FlutterEngine}.

@@ -5,8 +5,8 @@
 package io.flutter.embedding.engine.renderer;
 
 import android.graphics.SurfaceTexture;
-import androidx.annotation.Keep;
-import androidx.annotation.NonNull;
+import android.support.annotation.Keep;
+import android.support.annotation.NonNull;
 
 /**
  * A wrapper for a SurfaceTexture that tracks whether the texture has been released.

@@ -10,7 +10,7 @@ import static org.mockito.Mockito.verify;
 
 import android.annotation.TargetApi;
 import android.view.KeyEvent;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.JSONMessageCodec;
 import io.flutter.util.FakeKeyEvent;

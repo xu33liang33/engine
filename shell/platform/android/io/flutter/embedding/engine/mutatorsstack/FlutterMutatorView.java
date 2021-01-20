@@ -7,7 +7,7 @@ import android.graphics.Matrix;
 import android.graphics.Path;
 import android.view.MotionEvent;
 import android.widget.FrameLayout;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.AndroidTouchProcessor;
 
 /**

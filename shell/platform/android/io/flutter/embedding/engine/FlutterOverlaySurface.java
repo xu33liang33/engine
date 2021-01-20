@@ -5,8 +5,8 @@
 package io.flutter.embedding.engine;
 
 import android.view.Surface;
-import androidx.annotation.Keep;
-import androidx.annotation.NonNull;
+import android.support.annotation.Keep;
+import android.support.annotation.NonNull;
 
 @Keep
 public class FlutterOverlaySurface {
